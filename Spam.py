@@ -1,5 +1,5 @@
 #!/usr/bin/python2
-# Author : ./FUKUR0-3XP
+# Author : ./Mr-Pantex
 # Team : Black Coders Anonymous Satanic Exploiter Team ( BCA - X666X )
 # Apa Liat Liat ? Mau Recode ? >_<
 # Recode Tidak Akan Membuat Anda Menjadi Pencipta Kode :3
@@ -38,7 +38,7 @@ try:
 /\__/ / |_) | (_| | | | | | | /\__/ / | | | | \__ \\
 \____/| .__/ \__,_|_| |_| |_| \____/|_| |_| |_|___/
       | |                                          
-      |_|  '''+W+'Creator : ./Fukur0\n\t\tYT : Jejak Cyber')
+      |_|  '''+W+'Creator : ./Mr-Pantex\n\t\tYT :Mr-Pantex official')
 
 	def MapClub(Phone, Amount):
 		for _ in range(Amount):
@@ -718,6 +718,6 @@ if __name__ == '__main__':
 	print(C+'Subscribe YT'+W+' Gua Dlu Ya Su !'+C+' :V')
 	sleep(2)
 	os.system('clear')
-	os.system('xdg-open https://www.youtube.com/channel/UCzsADl8XRJeZXJ6CKZLX5KQ')
+	os.system('xdg-open https://www.youtube.com/channel/Mr-Pantex official')
 	sleep(7)
 	Spam()
