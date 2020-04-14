@@ -691,7 +691,7 @@ try:
 				sys.exit()
 		
 		elif PilihTools == '9':
-			os.system('xdg-open http://wa.me/6285880818385?text=Hallo')
+			os.system('xdg-open http://wa.me/628888521719?text=Hallo')
 		
 		elif PilihTools == 'X' or PilihTools == 'x':
 			print
@@ -718,6 +718,6 @@ if __name__ == '__main__':
 	print(C+'Subscribe YT'+W+' Gua Dlu Ya Su !'+C+' :V')
 	sleep(2)
 	os.system('clear')
-	os.system('xdg-open https://www.youtube.com/channel/Mr-Pantex official')
-	sleep(7)
+	os.system('xdg-open https://www.youtube.com/channel/https://www.youtube.com/channel/UCVX-ZwkQ4FVbRdk7AGuF_SA')
+	sleep(7
 	Spam()
