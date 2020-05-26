@@ -19,8 +19,8 @@ logo = """
 / __| '_ \ / _` | '_ ` _ \| '_ ` _ \ / _ \ '__|
 \__ \ |_) | (_| | | | | | | | | | | |  __/ |
 |___/ .__/ \__,_|_| |_| |_|_| |_| |_|\___|_|
-    | | %sAuthor %s: %sRizky ID
-%s    |_| %sGithub %s: %shttps://github.com/hekelpro
+    | | %sAuthor %s: %sMr-Pantex
+%s    |_| %sGithub %s: %shttps://github.com/Mr-pantex
 """%(cyan,hijau,merah,putih,cyan,hijau,merah,putih)
 
 def main():
