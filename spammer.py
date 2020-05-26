@@ -20,7 +20,7 @@ logo = """
 \__ \ |_) | (_| | | | | | | | | | | |  __/ |
 |___/ .__/ \__,_|_| |_| |_|_| |_| |_|\___|_|
     | | %sAuthor %s: %s:Rifa Ganz
-%s    |_| %sGithub %s: %s:https://github.com/Mr-pantex
+%s    |_| %sGithub %s: %s:https://github.com/MrPantex
 """%(cyan,hijau,merah,putih,cyan,hijau,merah,putih)
 
 def main():
