@@ -19,7 +19,7 @@ logo = """
 / __| '_ \ / _` | '_ ` _ \| '_ ` _ \ / _ \ '__|
 \__ \ |_) | (_| | | | | | | | | | | |  __/ |
 |___/ .__/ \__,_|_| |_| |_|_| |_| |_|\___|_|
-    | | %sAuthor %s: %sMr-Pantex
+    | | %sAuthor %s: %s:Rifa Ganz
 %s    |_| %sGithub %s: %shttps://github.com/Mr-pantex
 """%(cyan,hijau,merah,putih,cyan,hijau,merah,putih)
 
